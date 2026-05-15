@@ -1,22 +1,23 @@
-# Personal Website
+# Pedro Figueiredo — Personal Website
 
-This version is plain static HTML/CSS (no Jekyll required).
+Personal academic/professional website built with HTML and CSS.
 
-## Run locally with npm
+## Live Website
+[https://your-domain.com](https://pedromf24.github.io/my-website/index.html)
 
+## Sections
+- Home
+- CV
+- Projects
+- Publications
+- Links
+- Contact
+
+## Tech Stack
+- HTML5
+- CSS3
+- GitHub Pages
+
+## Run Locally
 ```bash
-npm init -y
-npm i -D serve
 npx serve .
-```
-
-Open the shown URL (usually http://localhost:3000).
-
-## Pages
-
-- index.html
-- cv.html
-- projects.html
-- publications.html
-- links.html
-- contact.html
